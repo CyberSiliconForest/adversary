@@ -17,6 +17,11 @@ description = "SiliconForest Advisory Archive"
 
 [menu]
 [[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 5
+[[menu.main]]
   identifier = "advisory"
   name = "Advisory"
   url = "/advisory/"
