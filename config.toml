@@ -2,3 +2,15 @@ baseURL = 'https://advisory.silicon.moe/'
 languageCode = 'en-us'
 title = 'SiliconForest Advisory'
 theme = 'risotto'
+
+[params]
+noindex = false
+
+[params.theme]
+palette = "base16-dark"
+
+# Sidebar: about/bio
+[params.about]
+title = "SiliconForest Advisory"
+description = "SiliconForest Advisory Archive"
+#logo = "images/siflogo-light.svg"
