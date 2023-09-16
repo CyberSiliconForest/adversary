@@ -14,3 +14,10 @@ palette = "base16-dark"
 title = "SiliconForest Advisory"
 description = "SiliconForest Advisory Archive"
 #logo = "images/siflogo-light.svg"
+
+[menu]
+[[menu.main]]
+  identifier = "advisory"
+  name = "Advisory"
+  url = "/advisory/"
+  weight = 10
