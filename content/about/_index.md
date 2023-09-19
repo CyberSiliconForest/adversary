@@ -33,6 +33,6 @@ patch within additional 30 days, SiliconForest may grant grace period
 to the vendor upon request. In this case, following disclosure rule will
 apply.
 
-* 90 + (grace period requested) days passed after the vendor reported the
+* 90 + (grace period granted) days passed after the vendor reported the
 vulnerability, but the vendor failed to release fix for the vunlerability.
 * After 30 days passed after the vendor release a fix.
