@@ -4,7 +4,7 @@ date: 2023-09-16T16:14:48+09:00
 draft: false
 ---
 
-SiliconForest Advisory
+SiliconForest Advisory [한국어 버전]({{<relref path="./about-ko.md">}})
 
 # What is this
 
